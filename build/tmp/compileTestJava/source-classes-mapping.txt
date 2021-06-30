@@ -1,2 +1,0 @@
-calcDeliveryPriceTests.java
- calcDeliveryPriceTests
